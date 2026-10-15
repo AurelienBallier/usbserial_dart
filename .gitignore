@@ -3,6 +3,7 @@
 
 .packages
 .pub/
+/build/
 pubspec.lock
 # Local configuration file (sdk path, etc)
 local.properties
